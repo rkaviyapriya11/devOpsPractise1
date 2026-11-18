@@ -1,4 +1,4 @@
-name: Node Basic pipeline
+name: Node Matrix pipeline
 
 on:
   push:
